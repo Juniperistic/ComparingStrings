@@ -1,0 +1,15 @@
+C:\Users\miran\source\repos\ch16ex3\ch16ex3\bin\Debug\ch16ex3.exe.config
+C:\Users\miran\source\repos\ch16ex3\ch16ex3\bin\Debug\ch16ex3.exe
+C:\Users\miran\source\repos\ch16ex3\ch16ex3\bin\Debug\ch16ex3.pdb
+C:\Users\miran\source\repos\ch16ex3\ch16ex3\obj\Debug\ch16ex3.csproj.AssemblyReference.cache
+C:\Users\miran\source\repos\ch16ex3\ch16ex3\obj\Debug\ch16ex3.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\ch16ex3\ch16ex3\obj\Debug\ch16ex3.exe
+C:\Users\miran\source\repos\ch16ex3\ch16ex3\obj\Debug\ch16ex3.pdb
+C:\Users\miran\Desktop\ch16ex3\ch16ex3\bin\Debug\ch16ex3.exe.config
+C:\Users\miran\Desktop\ch16ex3\ch16ex3\bin\Debug\ch16ex3.exe
+C:\Users\miran\Desktop\ch16ex3\ch16ex3\bin\Debug\ch16ex3.pdb
+C:\Users\miran\Desktop\ch16ex3\ch16ex3\obj\Debug\ch16ex3.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\ch16ex3\ch16ex3\obj\Debug\ch16ex3.csproj.SuggestedBindingRedirects.cache
+C:\Users\miran\Desktop\ch16ex3\ch16ex3\obj\Debug\ch16ex3.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\ch16ex3\ch16ex3\obj\Debug\ch16ex3.exe
+C:\Users\miran\Desktop\ch16ex3\ch16ex3\obj\Debug\ch16ex3.pdb
